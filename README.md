@@ -17,9 +17,13 @@ This project focuses on predicting future sales trends using **machine learning*
 
 ## Project Structure
 ├── data/ # Dataset files
+
 ├── notebooks/ # Jupyter notebooks
+
 ├── sales_prediction.py # Main script
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Project documentation
 
 ## Workflow
