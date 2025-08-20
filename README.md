@@ -1,9 +1,9 @@
-# 📊 Sales Data Prediction
+# Sales Data Prediction
 
-## 📌 Overview
+##  Overview
 This project focuses on predicting future sales trends using **machine learning** techniques. By analyzing historical sales data, the model provides insights into demand forecasting and supports data-driven decision-making.
 
-## 🚀 Features
+##  Features
 - Data preprocessing and cleaning with **Pandas & NumPy**  
 - Exploratory Data Analysis (EDA) with **Matplotlib & Seaborn**  
 - Sales trend visualization and insights  
@@ -22,23 +22,23 @@ This project focuses on predicting future sales trends using **machine learning*
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
 
-## 📊 Workflow
+## Workflow
 1. Load and preprocess the sales dataset  
 2. Perform data visualization and identify patterns  
 3. Train ML models (Regression techniques)  
 4. Evaluate models using accuracy metrics (R², MSE, RMSE)  
 5. Predict future sales and visualize results  
 
-## 📈 Results
+##  Results
 - The model successfully predicts sales with [XX% accuracy or RMSE value].  
 - Identified seasonal/demand patterns useful for business decisions.  
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Use deep learning models for time-series forecasting  
 - Deploy as a web app with Flask/Streamlit  
 - Automate pipeline for real-time sales prediction  
 
-## 📬 Contact
+## Contact
 Created by **[Manasi Singh]**  
 📧 Email: [manasisingh0804@gmail.com]  
 🐙 GitHub: [https://github.com/Manasi0804]
